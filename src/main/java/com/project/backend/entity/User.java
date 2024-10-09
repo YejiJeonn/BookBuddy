@@ -18,7 +18,6 @@ public class User {
 
     private String user_id;
     private String pw;
-    private String c_pw;
     private String username;
     private String name;
     private String email;
